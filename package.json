@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/swatkns785/react-stormpath-auth#readme",
   "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-runtime": "^6.11.6",
     "express": "^4.14.0",
     "express-stormpath": "^3.1.5",
     "webpack": "^1.13.2"
