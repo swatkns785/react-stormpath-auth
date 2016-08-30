@@ -1,0 +1,5 @@
+client:
+    apiKey: STORMPATH_API_KEY_ID
+    secret: STORMPATH_API_KEY_SECRET
+application:
+    href: https://api.stormpath.com/v1/applications/4JrGqipbMsPmQyrOfjD3st
