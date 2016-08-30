@@ -19,6 +19,10 @@
   "homepage": "https://github.com/swatkns785/react-stormpath-auth#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "express-stormpath": "^3.1.5"
+    "express-stormpath": "^3.1.5",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.6.1"
   }
 }
